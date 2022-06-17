@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mafsfilho
-- 👀 I’m interested in programming languages, data science and others
-- 🌱 I’m currently learning Python for data science 
-- 💞️ I’m looking to collaborate in jobs that allow me to develop skills in these areas
-- 📫 How to reach me marcos_antoniofilho@hotmail.com
+Hi, I'm studying to be a Data Scientist. In that regard, I've graduated in SQL, and I'm graduating in Python and graduating with a bachelor's degree in mathematics.
